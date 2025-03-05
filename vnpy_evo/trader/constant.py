@@ -22,6 +22,7 @@ class Exchange(Enum):
     BYBIT = "BYBIT"
     BTSE = "BTSE"
     DERIBIT = "DERIBIT"
+    BACKPACK = "BACKPACK"
 
     # Global
     OTC = "OTC"
